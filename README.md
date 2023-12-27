@@ -18,5 +18,7 @@ Accuracy: The overall accuracy of the model is 0.81, indicating that the model c
 
 AUC-ROC Score: The AUC-ROC score is 0.7789. This score provides a measure of how well the model distinguishes between classes. A higher AUC-ROC score (closer to 1) indicates better performance.
 
+Here is the dataset: https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset
+
 Summary:
 The model has a decent overall accuracy, but the performance metrics for predicting churn (class 1) are not as high. The recall for class 1 is relatively low, suggesting that the model may not be identifying all the customers who actually churned. Depending on the specific goals and requirements, you might consider further tuning the model or exploring other machine learning algorithms to improve performance.
